@@ -4,7 +4,7 @@ import {getAuth, GoogleAuthProvider, signInWithRedirect, getRedirectResult} from
 import { onMounted } from "vue";
 const firebaseConfig = {
   apiKey: "AIzaSyApeT_XVx-zKvIXi3t6R3oYCzkdSYybB20",
-  authDomain: "bellaalbum.firebaseapp.com",
+  authDomain: "nvchung.org",
   projectId: "bellaalbum",
   storageBucket: "bellaalbum.firebasestorage.app",
   messagingSenderId: "368926442874",
